@@ -1,5 +1,5 @@
 {
-  "name": "cryptodelipackage",
+  "name": "crypto-slider",
   "version": "1.0.0",
   "description": "A package for decent slider.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cryptodeli/cryptodelipackage.git"
+    "url": "git+https://github.com/allen3366/crypto-slider.git"
   },
   "keywords": [
-    "slider"
+    "cryptography"
   ],
-  "author": "cryptodeli",
+  "author": "lisa",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
@@ -55,6 +55,7 @@
     "axios-retry": "^3.1.9",
     "rxjs": "^7.5.2",
     "validator": "^14.2.2",
+    "react-eth-pixels": "^1.0.2",
     "uuid": "^8.3.2",
     "graphql": "^16.0.2",
     "apollo-server-express": "^2.25.2",
@@ -74,10 +75,9 @@
     "enzyme-to-json": "^9.0.5",
     "redux-persist": "^6.0.0",
     "immer": "^10.0.2",
-    "axios-hooks": "^4.0.2"
+    "axios-hooks": "^4.0.2",
+    "multichain-gas-price-comparator":"^1.0.2"
+
   },
-  "bugs": {
-    "url": "https://github.com/cryptodeli/cryptodelipackage/issues"
-  },
-  "homepage": "https://github.com/cryptodeli/cryptodelipackage#readme"
+  "homepage": "https://github.com/allen3366/crypto-slider#readme"
 }
