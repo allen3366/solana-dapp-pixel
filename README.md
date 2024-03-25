@@ -1,5 +1,5 @@
 Hi
-Welcome to Crypto Slider!
+Welcome to crypto-eth-util!
 
 This project is a simple and intuitive tool to track the value of various cryptocurrencies. It provides real-time updates on prices, allowing users to stay informed about their investments at all times.
 
