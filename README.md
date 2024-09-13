@@ -12,3 +12,4 @@ This project is a simple and intuitive tool to track the value of various crypto
 ## Installation
 
 Clone the repository to your local machine and install the dependencies:
+last
