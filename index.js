@@ -1,5 +1,5 @@
 function cryptodelipackage() {
-    return "hello NPM"
+    return <div>start</div>
   }
   
   module.exports = cryptodelipackage
